@@ -1,0 +1,3 @@
+app-instance-1;{YOUR_IP_ADDRESS}
+app-instance-2;{YOUR_IP_ADDRESS}
+app-instance-3;{YOUR_IP_ADDRESS}
